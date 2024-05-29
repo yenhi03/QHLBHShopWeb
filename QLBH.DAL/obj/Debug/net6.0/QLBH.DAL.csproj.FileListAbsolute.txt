@@ -1,0 +1,17 @@
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.DAL.deps.json
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.DAL.runtimeconfig.json
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.DAL.dll
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.DAL.pdb
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.Common.dll
+D:\QLBHShopWeb\QLBH.DAL\bin\Debug\net6.0\QLBH.Common.pdb
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.csproj.AssemblyReference.cache
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.AssemblyInfoInputs.cache
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.AssemblyInfo.cs
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.csproj.CoreCompileInputs.cache
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.csproj.CopyComplete
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.dll
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\refint\QLBH.DAL.dll
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.pdb
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\QLBH.DAL.genruntimeconfig.cache
+D:\QLBHShopWeb\QLBH.DAL\obj\Debug\net6.0\ref\QLBH.DAL.dll

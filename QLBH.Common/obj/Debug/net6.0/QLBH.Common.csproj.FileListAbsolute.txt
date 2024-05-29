@@ -1,0 +1,14 @@
+D:\QLBHShopWeb\QLBH.Common\bin\Debug\net6.0\QLBH.Common.deps.json
+D:\QLBHShopWeb\QLBH.Common\bin\Debug\net6.0\QLBH.Common.dll
+D:\QLBHShopWeb\QLBH.Common\bin\Debug\net6.0\QLBH.Common.pdb
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.csproj.AssemblyReference.cache
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.AssemblyInfoInputs.cache
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.AssemblyInfo.cs
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.csproj.CoreCompileInputs.cache
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.dll
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\refint\QLBH.Common.dll
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.pdb
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\ref\QLBH.Common.dll
+D:\QLBHShopWeb\QLBH.Common\bin\Debug\net6.0\QLBH.Common.runtimeconfig.json
+D:\QLBHShopWeb\QLBH.Common\obj\Debug\net6.0\QLBH.Common.genruntimeconfig.cache
